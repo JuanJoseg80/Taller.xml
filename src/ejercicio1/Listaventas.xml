@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listaventas SYSTEM "reglaslistaventas.dtd">
+
+
+<listaventas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:noNamespaceSchemaLocation="Listaventas.xsd">
+
+    <venta>
+        <importe>15</importe>
+        <comprador>Marco </comprador>
+        <vendedor>KIA</vendedor>
+        <fecha> 2018-12-12 </fecha>
+        <codigofactura>SSD5564</codigofactura>
+    </venta>
+    <venta>
+        <importe>145</importe>
+        <comprador>Alma marcela</comprador>
+        <vendedor>KIA</vendedor>
+        <codigofactura>SSD5564</codigofactura>
+    </venta>
+
+    <venta>
+        <importe>546</importe>
+        <comprador>Jose emilio</comprador>
+        <vendedor>KIA</vendedor>
+        <fecha> 2014-11-07 </fecha>
+        <codigofactura>SSD6534</codigofactura>
+    </venta>
+
+</listaventas>
